@@ -1,6 +1,8 @@
 <div align="center">
 
-# Innate Labs
+<img src="./static/innate-labs-banner.png" alt="Innate Labs" width="100%" />
+
+<br />
 
 ### Building AI-native products & agents for the next generation of founders
 
