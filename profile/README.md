@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./static/innate-labs-banner.png" alt="Innate Labs" width="100%" />
+<img src="https://raw.githubusercontent.com/Innate-Labs/.github/main/static/innate-labs-banner.png" alt="Innate Labs" width="100%" />
 
 <br />
 
