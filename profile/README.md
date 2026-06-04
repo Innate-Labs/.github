@@ -29,14 +29,18 @@ We build **AI-native tools and agents** that help founders and product teams mov
 
 ## 📦 Projects · 项目
 
-<table width="100%">
+<table>
   <thead>
     <tr>
-      <th align="left" width="28%">Project</th>
+      <th align="left">Project</th>
       <th align="left">简介</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Innate-Labs/.github/main/static/spacer.png" width="260" height="1" alt=""></td>
+      <td><img src="https://raw.githubusercontent.com/Innate-Labs/.github/main/static/spacer.png" width="720" height="1" alt=""></td>
+    </tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/ai-pm-resume-clinic">ai-pm-resume-clinic</a></b></td><td>AI 产品经理简历批改台</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/founders-playbook">founders-playbook</a></b></td><td>AI 原生创业公司创始人手册</td></tr>
     <tr><td colspan="2"><b>🤖 AI 助手</b></td></tr>
