@@ -51,6 +51,7 @@ We build **AI-native tools and agents** that help founders and product teams mov
     <tr><td><b><a href="https://github.com/Innate-Labs/zhiban">zhiban</a></b></td><td>心理学驱动的 AI 恋爱顾问</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/mengchao">mengchao</a></b></td><td>AI 心理学驱动的梦境记录与解读工具</td></tr>
     <tr><td colspan="2"><b>🛠️ 工具平台</b></td></tr>
+    <tr><td><b><a href="https://github.com/Innate-Labs/bufferly">bufferly</a></b></td><td>开发者向的本地优先 macOS 剪贴板工作台</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/itawjh">itawjh</a></b></td><td>17 个 AI 岗位组成的一人公司操作系统</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/gameops">gameops</a></b></td><td>把运营需求转为执行策略的 AI 决策平台</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/lucidwrite">lucidwrite</a></b></td><td>本地运行的 AI 长内容写作工作台</td></tr>
