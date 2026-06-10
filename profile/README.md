@@ -52,6 +52,9 @@ We build **AI-native tools and agents** that help founders and product teams mov
     <tr><td><b><a href="https://github.com/Innate-Labs/mengchao">mengchao</a></b></td><td>AI 心理学驱动的梦境记录与解读工具</td></tr>
     <tr><td colspan="2"><b>🛠️ 工具平台</b></td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/bufferly">bufferly</a></b></td><td>开发者向的本地优先 macOS 剪贴板工作台</td></tr>
+    <tr><td><b><a href="https://github.com/Innate-Labs/v2do">v2do</a></b></td><td>说句话待办就进系统提醒的 macOS 语音速记</td></tr>
+    <tr><td><b><a href="https://github.com/Innate-Labs/catch">catch</a></b></td><td>粘贴链接接住任何视频的 macOS 极简下载器</td></tr>
+    <tr><td><b><a href="https://github.com/Innate-Labs/product-demo-video">product-demo-video</a></b></td><td>读懂 web 应用自动剪出产品演示片的 skill</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/itawjh">itawjh</a></b></td><td>17 个 AI 岗位组成的一人公司操作系统</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/gameops">gameops</a></b></td><td>把运营需求转为执行策略的 AI 决策平台</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/lucidwrite">lucidwrite</a></b></td><td>本地运行的 AI 长内容写作工作台</td></tr>
@@ -72,6 +75,7 @@ We build **AI-native tools and agents** that help founders and product teams mov
     <tr><td><b><a href="https://github.com/Innate-Labs/yili-yixue">yili-yixue</a></b></td><td>扎根周易义理派的 AI 问卦顾问</td></tr>
     <tr><td colspan="2"><b>🧩 浏览器扩展</b></td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/mindtab">mindtab</a></b></td><td>AI 原生书签管理的 Chrome 扩展</td></tr>
+    <tr><td><b><a href="https://github.com/Innate-Labs/img2prompt-extension">img2prompt-extension</a></b></td><td>右键图片即得 GPT Image 提示词的反推扩展</td></tr>
     <tr><td colspan="2"><b>🌐 个人作品</b></td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/suhang">suhang</a></b></td><td>全栈工程师与 AI 产品经理的作品集</td></tr>
   </tbody>
