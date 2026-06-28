@@ -44,6 +44,7 @@ We build **AI-native tools and agents** that help founders and product teams mov
     <tr><td><b><a href="https://github.com/Innate-Labs/ai-pm-resume-clinic">ai-pm-resume-clinic</a></b></td><td>AI 产品经理简历批改台</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/founders-playbook">founders-playbook</a></b></td><td>AI 原生创业公司创始人手册</td></tr>
     <tr><td colspan="2"><b>🤖 AI 助手</b></td></tr>
+    <tr><td><b><a href="https://github.com/Innate-Labs/desktop-pet">desktop-pet</a></b></td><td>能 AI 聊天的多角色像素桌宠 + Claude Code 状态面板</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/luxing">luxing</a></b></td><td>一句话生成多天行程的 AI 旅行助手</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/ai-note">ai-note</a></b></td><td>网页端会议录音、转写与 AI 总结助手</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/studyhere">studyhere</a></b></td><td>上传文档即可学练考纠的 AI 学习闭环</td></tr>
@@ -51,7 +52,6 @@ We build **AI-native tools and agents** that help founders and product teams mov
     <tr><td><b><a href="https://github.com/Innate-Labs/zhiban">zhiban</a></b></td><td>心理学驱动的 AI 恋爱顾问</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/mengchao">mengchao</a></b></td><td>AI 心理学驱动的梦境记录与解读工具</td></tr>
     <tr><td colspan="2"><b>🛠️ 工具平台</b></td></tr>
-    <tr><td><b><a href="https://github.com/Innate-Labs/desktop-pet">desktop-pet</a></b></td><td>住在 Mac 桌面的多角色像素桌宠 + Claude Code 状态面板</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/bufferly">bufferly</a></b></td><td>开发者向的本地优先 macOS 剪贴板工作台</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/v2do">v2do</a></b></td><td>说句话待办就进系统提醒的 macOS 语音速记</td></tr>
     <tr><td><b><a href="https://github.com/Innate-Labs/catch">catch</a></b></td><td>粘贴链接接住任何视频的 macOS 极简下载器</td></tr>
